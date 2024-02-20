@@ -1,0 +1,6 @@
+# ninja log v5
+1	32	1708417548229055366	CMakeFiles/untitled1.dir/zadanie2.c.o	48f8bc2bf02d0eb6
+0	32	1708419435075261748	CMakeFiles/untitled1.dir/main.c.o	6f05ab14f2618a4d
+1	38	1708418131062077407	CMakeFiles/untitled1.dir/zadanie1.c.o	4bce77b4b049276e
+32	76	1708419435119398641	untitled1	7c17fcc52b7ccfb8
+0	47	1708419554422842761	build.ninja	9a5d1a4f2299dc9a
