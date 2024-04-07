@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-long long int factorial(int n) { // funkcja rekurencyjna obliczajaca silnie
+long long int factorial(int n) { //  funkcja rekurencyjna obliczajaca silnie
     if (n == 0) {
         return 1;
     } else {
